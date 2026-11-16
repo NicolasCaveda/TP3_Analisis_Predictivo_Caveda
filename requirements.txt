@@ -1,0 +1,16 @@
+# Entorno con el que se verifico la replica (Python 3.13, Windows, CPU)
+numpy==2.5.4
+pandas==3.0.5
+pyarrow==25.0.1
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+xgboost==3.4.1
+catboost==1.2.10
+sentence-transformers==6.1.0
+transformers==5.19.0
+torch==2.14.1
+joblib==1.5.3
+jupyter
+nbconvert==7.17.1
+ipykernel==6.29.5

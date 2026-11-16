@@ -1,0 +1,12 @@
+# datos de la competencia (se descargan de Kaggle)
+datos/*.jsonlines
+# se regeneran al correr los notebooks
+cache/
+modelo_final/
+gpu_kaggle/datos_tabpfn/
+submissions/ensamble_fable_v9.csv
+submissions/id_original/
+__pycache__/
+.ipynb_checkpoints/
+# notas personales, no son parte de la entrega
+guion.md
