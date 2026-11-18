@@ -10,6 +10,7 @@ y 0.95076 en el público.
 
 | | |
 |---|---|
+| `presentacion.pptx` | **(a)** la presentación de 5 minutos |
 | `entrenar_modelo_final.ipynb` | **(b)** entrena y guarda el modelo final en `modelo_final/` |
 | `aplicar_modelo_final.ipynb` | **(c)** aplica el modelo final a test y genera `submissions/ensamble_fable_v9.csv`; además lo compara con el archivo enviado |
 | `features.py` | feature engineering (lo usan los dos notebooks) |
